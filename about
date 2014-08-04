@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>About Beauly</title>
+	</head>
+	<body>
+		<p><h1>About Me</h1>
+		I am an Entrepreneur living in Cincinnati, OH.  I became interested in Front-End Web Design and Development because I would like to bridge business development and web development.</p>
+		<h2>My Mission</h2>
+		<p>As I learn more about front-end, I hope to one day work as a UX Designer with mmy own company because I like to work in a startup ecosystem.</p>
+		<h2>My Experience</h2>
+		<p>This is how I have evolved professionally:
+			<li><strong>President,</strong> ONeale,s Holdings Ltd, <em>Virgin Islands, 2005 - Present</em></li>
+			<br>
+			<li><strong>Project Manager,</strong> American Mortgage, <em>Cincinnati, OH, 2012 - Present</em></li>
+			</br>
+			<li><strong>Sr. Executive,</strong> Sibcy Cline Mortgage Services, <em>Cincinnati, OH, 2002 - 2008</em></li></p>
+		<p><h2>Education</h2>
+		<ul><strong>University of Cincinnati,</strong> Masters in Business Administration</ul>
+		<ul><strong>Xavier University,</strong> Psychology</ul><p/>
+		<h2>Other</h2>
+			<p>If you are interested in collaborating with me on a project, feel free to email me at: <a href=beauly.oneale@gmail.com>Beauly.ONeale@gmail.com</a></p>
+	</body>
+</html>
